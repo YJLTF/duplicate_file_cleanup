@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --name 重复文件清理 main.py
