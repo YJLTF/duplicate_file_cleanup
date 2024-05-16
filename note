@@ -1,1 +1,1 @@
-pyinstaller --onefile --noconsole --name 重复文件清理 main.py
+pyinstaller --onefile --noconsole --name duplicate_file_cleanup main.py
